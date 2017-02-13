@@ -1,0 +1,21 @@
+{
+  "name": "rx30012017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/whatwg-fetch": "0.0.33",
+    "awesome-typescript-loader": "^3.0.4-rc.2",
+    "typescript": "^2.1.6"
+  },
+  "dependencies": {
+    "rxjs": "^5.1.1",
+    "whatwg-fetch": "^2.0.2"
+  }
+}
